@@ -129,7 +129,6 @@ def dataset_loader(dataset_name):
 # Open the prompts YAML
 with open("data/prompts.yml", 'r') as stream:
     model_prompt = yaml.safe_load(stream)
-    
 # Open the models YAML
 with open("data/models.yml", 'r') as stream:
     models = yaml.safe_load(stream)
