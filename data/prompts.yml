@@ -1129,6 +1129,7 @@ EuroSAT:
     'a centered satellite photo of a {}.',
     'a centered satellite photo of the {}.',
   ]
+  
 FGVCAircraft:
   classes: [
     '707-320',
